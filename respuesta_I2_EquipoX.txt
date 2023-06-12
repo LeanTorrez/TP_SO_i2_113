@@ -8,3 +8,34 @@ a-Utilizando el git remote add upstream <url del repositorio origen>
 b-Si, utilizando el git remote add upstream <url del fork de GAMMA>
 c-Si, utilizando el git remote add upstream <url del fork de ALFA>
 d-No se pierden.
+e)
+git clone [url de fork de gamma] : Brian alan suarez
+git add .
+git commit -m [info del commit]
+git push
+git clone [url de fork de alfa] : Maximiliano cesa
+git add .
+git commit -m [info del commit]
+git push
+git clone [url del repositorio de beta] : Leandro Emanuel Torrez
+git add .
+git commit -m [info del commit]
+git remote add upstream [url del repositorio de beta] : Maximiliano Cesa y Brian Alan Suarez
+git pull upstream main
+git push
+pasos para agregar las respuestas:
+Desde el fork de GAMMA:
+git remote add upstream [url del repositorio de GAMMA]
+git pull upstream main
+
+Desde el repositorio origen:
+git remote add upstream [url del repositorio de beta]
+git pull upstream main
+
+Desde el repositorio de ALFA:
+git remote add upstream [url del repositorio de alfa]
+git pull upstream main
+
+Por ultimo desde el repositorio origen
+git remote add upstream [url del repositorio de beta]
+git pull upstream main
