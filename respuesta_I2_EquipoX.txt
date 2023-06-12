@@ -1,3 +1,8 @@
 Cesa, Maximiliano Jose
 Torrez, Leandro Emanuel
 Suarez, Brian Alan
+
+RESPUESTAS : 
+
+a-Utilizando el git remote add upstream <url del repositorio origen>
+b-Si, utilizando el git remote add upstream <url del fork de GAMMA>
