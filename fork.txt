@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Maximiliano Cesa
 192.168.0.102
 15:18:14
+=======
+Suarez Brian Alan
+Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.33
+Hora: 03:17
+>>>>>>> cb80b08ff85f2a7d98688bcda32d95cb74d16d12
