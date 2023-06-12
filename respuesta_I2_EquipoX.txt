@@ -6,3 +6,5 @@ RESPUESTAS :
 
 a-Utilizando el git remote add upstream <url del repositorio origen>
 b-Si, utilizando el git remote add upstream <url del fork de GAMMA>
+c-Si, utilizando el git remote add upstream <url del fork de ALFA>
+d-No se pierden.
